@@ -62,10 +62,4 @@ If you're admin, you get full control - add, edit, delete transactions. Switch t
 
 Could add budgeting, recurring transactions, better export options, actual authentication (right now there's none). Whatever, it works fine for prototyping.
 
-## License
 
-Do whatever you want with it. It's yours.
-
----
-
-If something breaks or you have suggestions, just let me know.
